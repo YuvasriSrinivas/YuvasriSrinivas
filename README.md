@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on *Full Stack Development*
-- 🌱 I’m currently learning *Node.js, Express, MongoDB*
+- 🌱 I’m currently learning *Node.js, Express*
 - 👯 I’m looking to collaborate on *Frontend + Backend Projects*
 - 🤝 I’m looking for help with *Cloud & DevOps*
-- 💬 Ask me about *Web Development / MERN Stack*
-- 📫 How to reach me *your-email@gmail.com*
+- 💬 Ask me about *Web Development*
+- 📫 How to reach me *your-yuvasrisrinivas09@gmail.com*
 - ⚡ Fun fact *I love coding + coffee ☕*
 
 ---
