@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vuvasti Srinivas</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Yuvasri Srinivas</h1>
+<h3 align="center">A passionate Full Stacker(Python) from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -34,16 +34,8 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=VuvastiSrinivas&show_icons=true&theme=radical" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VuvastiSrinivas&theme=radical" alt="streak" />
-</p>
-
 ---
 
-### 🐍 Contribution Snake:
-![Snake animation](https://github.com/VuvastiSrinivas/VuvastiSrinivas/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 YuvasriSrinivas/YuvasriSrinivas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
